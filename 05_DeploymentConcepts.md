@@ -1,6 +1,5 @@
----
 
-## 📝 What the `kubernetes-csi.yaml` typically contains
+##  What the `kubernetes-csi.yaml` typically contains
 
 For the Dynatrace Operator installation with CSI (= code module injection via CSI), the YAML manifest usually includes:
 
